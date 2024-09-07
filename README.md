@@ -38,6 +38,3 @@ This project is a basic Python CRUD (Create, Read, Update, Delete) application u
 - `crud_operations.py`: Contains functions to perform the CRUD operations.
 - `main.py`: The main script that provides a menu for interacting with the database.
 
-## License
-
-This project is licensed under the MIT License.
